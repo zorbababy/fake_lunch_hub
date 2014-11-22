@@ -9,7 +9,7 @@ gem 'spring', :group => :development
 
 
 gem 'pg'
-
+gem 'tzinfo-data'
 
 
 # To use ActiveModel has_secure_password
@@ -26,3 +26,5 @@ gem 'pg'
 
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
+
+gem 'rspec-rails', '~> 3.0'
